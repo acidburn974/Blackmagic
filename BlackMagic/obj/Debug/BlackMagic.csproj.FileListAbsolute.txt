@@ -1,0 +1,7 @@
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagic\bin\Debug\BlackMagic.XML
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagic\bin\Debug\BlackMagic.dll
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagic\bin\Debug\BlackMagic.pdb
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagic\bin\Debug\fasmdll_managed.dll
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagic\obj\Debug\BlackMagic.dll
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagic\obj\Debug\BlackMagic.pdb

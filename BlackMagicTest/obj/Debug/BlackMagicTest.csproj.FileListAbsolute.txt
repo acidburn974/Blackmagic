@@ -1,0 +1,10 @@
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagicTest\bin\Debug\BlackMagicTest.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagicTest\bin\Debug\BlackMagicTest.exe
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagicTest\bin\Debug\BlackMagicTest.pdb
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagicTest\bin\Debug\BlackMagic.dll
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagicTest\bin\Debug\fasmdll_managed.dll
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagicTest\bin\Debug\BlackMagic.pdb
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagicTest\bin\Debug\BlackMagic.xml
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagicTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagicTest\obj\Debug\BlackMagicTest.exe
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\blackmagic\BlackMagicTest\obj\Debug\BlackMagicTest.pdb

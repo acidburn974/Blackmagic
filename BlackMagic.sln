@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackMagic", "BlackMagic\BlackMagic.csproj", "{79FD54B0-DEAB-459F-83B9-F1CED68D288B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackMagicTest", "BlackMagicTest\BlackMagicTest.csproj", "{4C938210-4D82-48A1-9A0C-7432C3426073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79FD54B0-DEAB-459F-83B9-F1CED68D288B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FD54B0-DEAB-459F-83B9-F1CED68D288B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FD54B0-DEAB-459F-83B9-F1CED68D288B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FD54B0-DEAB-459F-83B9-F1CED68D288B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C938210-4D82-48A1-9A0C-7432C3426073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C938210-4D82-48A1-9A0C-7432C3426073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C938210-4D82-48A1-9A0C-7432C3426073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C938210-4D82-48A1-9A0C-7432C3426073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = 
+	EndGlobalSection
+EndGlobal
